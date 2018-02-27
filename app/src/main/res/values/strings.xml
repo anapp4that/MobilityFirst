@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">Mobility First</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+
+    <!-- Contact  page strings -->
+    <string name="contact_message">Have a question, or need to contact the Assistive Mobility Office directly?</string>
+    <string name="paratransit_number">479-575-6993</string>
+    <string name="paratransit_email">transit@uark.edu</string>
+
+    <!-- add ride by address page strings -->
+    <string name="where_from">Where do we pick you up?</string>
+    <string name="what_time">What time?</string>
+    <string name="what_date">What Day?</string>
+    <string name="add_note">Any thing else you need to mention?</string>
+
+    <!-- log in page strings -->
+    <string name="welcome_message">Welcome to Mobility First</string>
+    <string name="have_account_message">Already have an account?</string>
+
+    <!-- wow, need to escape apostrophes with
+                    a \ or else it stops before the apostrophe  -->
+    <string name="no_account">Don\'t have an account?</string>
+
+    <!-- sign up page strings -->
+    <string name="signUp_message">To sign up please fill out the forms below.</string>
+
+
+    <!-- User Vars -->
+    <string name="userEmail">sla008@uark.edu</string>
+    <string name="userName">Shelby Anderson</string>
+
+
+</resources>

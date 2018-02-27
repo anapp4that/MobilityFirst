@@ -1,0 +1,277 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\lilga\Desktop\Mobile Programming Final Project\app\src\main\AndroidManifest.xml:2:1-62:12
+INJECTED from C:\Users\lilga\Desktop\Mobile Programming Final Project\app\src\main\AndroidManifest.xml:2:1-62:12
+INJECTED from C:\Users\lilga\Desktop\Mobile Programming Final Project\app\src\main\AndroidManifest.xml:2:1-62:12
+INJECTED from C:\Users\lilga\Desktop\Mobile Programming Final Project\app\src\main\AndroidManifest.xml:2:1-62:12
+MERGED from [com.google.android.gms:play-services-maps:11.6.2] C:\Users\lilga\.gradle\caches\transforms-1\files-1.1\play-services-maps-11.6.2.aar\c26909b4b632f9170c94fe898f9c6029\AndroidManifest.xml:16:1-25:12
+MERGED from [com.android.support:design:26.1.0] C:\Users\lilga\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\2f210b7eaa54992ce539fc2c29d34020\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\lilga\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\69fc8b4108057aa894151038fadfeec0\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\lilga\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\b51c47d4da4ef3e32fcd2a62c5be4fae\AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.android.gms:play-services-base:11.6.2] C:\Users\lilga\.gradle\caches\transforms-1\files-1.1\play-services-base-11.6.2.aar\616019b8a2dff4d295f79b2a31327083\AndroidManifest.xml:16:1-21:12
+MERGED from [com.google.android.gms:play-services-tasks:11.6.2] C:\Users\lilga\.gradle\caches\transforms-1\files-1.1\play-services-tasks-11.6.2.aar\34d549116e6ed768028bd6773bcde38f\AndroidManifest.xml:2:1-5:12
+MERGED from [com.google.android.gms:play-services-basement:11.6.2] C:\Users\lilga\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.6.2.aar\799d25e426f4c39cd630638f4f63ad25\AndroidManifest.xml:16:1-23:12
+MERGED from [com.google.android.gms:play-services-maps-license:11.6.2] C:\Users\lilga\.gradle\caches\transforms-1\files-1.1\play-services-maps-license-11.6.2.aar\eda45f523c91153dc7e14fbde7c0cd9f\AndroidManifest.xml:2:1-6:12
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\lilga\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\0dbdaf8e04e7f3db1c891bf0770059f9\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\lilga\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\753ce506efc36bbddfbd95b5fdec3052\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\lilga\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\e6670e6789445cb10ec6f0ce3fb11671\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:transition:26.1.0] C:\Users\lilga\.gradle\caches\transforms-1\files-1.1\transition-26.1.0.aar\3d7d7e1e00f3e5cfbebf262fe8ead940\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\lilga\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\8755716e0c4e3a62154800f0e947363c\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\lilga\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\3a187ac172b44cf9d0cb5392406e17e1\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\lilga\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\261a8da45c4445e34bbbddc3962c1740\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\lilga\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\c8cf9e592bc380e290bf4e3756000af6\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\lilga\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\a3e67e5a6707b5b708771d6d877f7af7\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\lilga\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\42251852c13adf5233796ab26d2fb372\AndroidManifest.xml:17:1-31:12
+MERGED from [com.google.android.gms:play-services-base-license:11.6.2] C:\Users\lilga\.gradle\caches\transforms-1\files-1.1\play-services-base-license-11.6.2.aar\f6a7c02fe6b1a5913b1b906a51b5ab9b\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-basement-license:11.6.2] C:\Users\lilga\.gradle\caches\transforms-1\files-1.1\play-services-basement-license-11.6.2.aar\3682a75bca7d785302bdaffb0c8c2d46\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-tasks-license:11.6.2] C:\Users\lilga\.gradle\caches\transforms-1\files-1.1\play-services-tasks-license-11.6.2.aar\cffd61eaca7ab621106ac625bb04045d\AndroidManifest.xml:2:1-6:12
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\lilga\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\b6b88816dd0cae89f4a04e1bbc3c698c\AndroidManifest.xml:17:1-30:12
+INJECTED from C:\Users\lilga\Desktop\Mobile Programming Final Project\app\src\main\AndroidManifest.xml:2:1-62:12
+INJECTED from C:\Users\lilga\Desktop\Mobile Programming Final Project\app\src\main\AndroidManifest.xml:2:1-62:12
+INJECTED from C:\Users\lilga\Desktop\Mobile Programming Final Project\app\src\main\AndroidManifest.xml:2:1-62:12
+	package
+		ADDED from C:\Users\lilga\Desktop\Mobile Programming Final Project\app\src\main\AndroidManifest.xml:3:5-51
+		INJECTED from C:\Users\lilga\Desktop\Mobile Programming Final Project\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\lilga\Desktop\Mobile Programming Final Project\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\lilga\Desktop\Mobile Programming Final Project\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\lilga\Desktop\Mobile Programming Final Project\app\src\main\AndroidManifest.xml:2:1-62:12
+		INJECTED from C:\Users\lilga\Desktop\Mobile Programming Final Project\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\lilga\Desktop\Mobile Programming Final Project\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\lilga\Desktop\Mobile Programming Final Project\app\src\main\AndroidManifest.xml:2:1-62:12
+		INJECTED from C:\Users\lilga\Desktop\Mobile Programming Final Project\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\lilga\Desktop\Mobile Programming Final Project\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.CALL_PHONE
+ADDED from C:\Users\lilga\Desktop\Mobile Programming Final Project\app\src\main\AndroidManifest.xml:6:5-69
+	android:name
+		ADDED from C:\Users\lilga\Desktop\Mobile Programming Final Project\app\src\main\AndroidManifest.xml:6:22-66
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from C:\Users\lilga\Desktop\Mobile Programming Final Project\app\src\main\AndroidManifest.xml:7:5-78
+	android:name
+		ADDED from C:\Users\lilga\Desktop\Mobile Programming Final Project\app\src\main\AndroidManifest.xml:7:22-76
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from C:\Users\lilga\Desktop\Mobile Programming Final Project\app\src\main\AndroidManifest.xml:8:5-80
+	android:name
+		ADDED from C:\Users\lilga\Desktop\Mobile Programming Final Project\app\src\main\AndroidManifest.xml:8:22-78
+application
+ADDED from C:\Users\lilga\Desktop\Mobile Programming Final Project\app\src\main\AndroidManifest.xml:11:5-60:19
+MERGED from [com.google.android.gms:play-services-maps:11.6.2] C:\Users\lilga\.gradle\caches\transforms-1\files-1.1\play-services-maps-11.6.2.aar\c26909b4b632f9170c94fe898f9c6029\AndroidManifest.xml:24:5-19
+MERGED from [com.google.android.gms:play-services-maps:11.6.2] C:\Users\lilga\.gradle\caches\transforms-1\files-1.1\play-services-maps-11.6.2.aar\c26909b4b632f9170c94fe898f9c6029\AndroidManifest.xml:24:5-19
+MERGED from [com.android.support:design:26.1.0] C:\Users\lilga\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\2f210b7eaa54992ce539fc2c29d34020\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:design:26.1.0] C:\Users\lilga\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\2f210b7eaa54992ce539fc2c29d34020\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\lilga\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\69fc8b4108057aa894151038fadfeec0\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\lilga\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\69fc8b4108057aa894151038fadfeec0\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\lilga\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\b51c47d4da4ef3e32fcd2a62c5be4fae\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\lilga\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\b51c47d4da4ef3e32fcd2a62c5be4fae\AndroidManifest.xml:9:5-20
+MERGED from [com.google.android.gms:play-services-base:11.6.2] C:\Users\lilga\.gradle\caches\transforms-1\files-1.1\play-services-base-11.6.2.aar\616019b8a2dff4d295f79b2a31327083\AndroidManifest.xml:18:5-20:19
+MERGED from [com.google.android.gms:play-services-base:11.6.2] C:\Users\lilga\.gradle\caches\transforms-1\files-1.1\play-services-base-11.6.2.aar\616019b8a2dff4d295f79b2a31327083\AndroidManifest.xml:18:5-20:19
+MERGED from [com.google.android.gms:play-services-tasks:11.6.2] C:\Users\lilga\.gradle\caches\transforms-1\files-1.1\play-services-tasks-11.6.2.aar\34d549116e6ed768028bd6773bcde38f\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-tasks:11.6.2] C:\Users\lilga\.gradle\caches\transforms-1\files-1.1\play-services-tasks-11.6.2.aar\34d549116e6ed768028bd6773bcde38f\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-basement:11.6.2] C:\Users\lilga\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.6.2.aar\799d25e426f4c39cd630638f4f63ad25\AndroidManifest.xml:19:5-21:19
+MERGED from [com.google.android.gms:play-services-basement:11.6.2] C:\Users\lilga\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.6.2.aar\799d25e426f4c39cd630638f4f63ad25\AndroidManifest.xml:19:5-21:19
+MERGED from [com.google.android.gms:play-services-maps-license:11.6.2] C:\Users\lilga\.gradle\caches\transforms-1\files-1.1\play-services-maps-license-11.6.2.aar\eda45f523c91153dc7e14fbde7c0cd9f\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-maps-license:11.6.2] C:\Users\lilga\.gradle\caches\transforms-1\files-1.1\play-services-maps-license-11.6.2.aar\eda45f523c91153dc7e14fbde7c0cd9f\AndroidManifest.xml:5:5-20
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\lilga\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\0dbdaf8e04e7f3db1c891bf0770059f9\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\lilga\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\0dbdaf8e04e7f3db1c891bf0770059f9\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\lilga\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\753ce506efc36bbddfbd95b5fdec3052\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\lilga\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\753ce506efc36bbddfbd95b5fdec3052\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\lilga\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\e6670e6789445cb10ec6f0ce3fb11671\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\lilga\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\e6670e6789445cb10ec6f0ce3fb11671\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:transition:26.1.0] C:\Users\lilga\.gradle\caches\transforms-1\files-1.1\transition-26.1.0.aar\3d7d7e1e00f3e5cfbebf262fe8ead940\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:transition:26.1.0] C:\Users\lilga\.gradle\caches\transforms-1\files-1.1\transition-26.1.0.aar\3d7d7e1e00f3e5cfbebf262fe8ead940\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\lilga\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\8755716e0c4e3a62154800f0e947363c\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\lilga\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\8755716e0c4e3a62154800f0e947363c\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\lilga\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\3a187ac172b44cf9d0cb5392406e17e1\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\lilga\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\3a187ac172b44cf9d0cb5392406e17e1\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\lilga\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\261a8da45c4445e34bbbddc3962c1740\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\lilga\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\261a8da45c4445e34bbbddc3962c1740\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\lilga\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\c8cf9e592bc380e290bf4e3756000af6\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\lilga\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\c8cf9e592bc380e290bf4e3756000af6\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\lilga\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\a3e67e5a6707b5b708771d6d877f7af7\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\lilga\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\a3e67e5a6707b5b708771d6d877f7af7\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\lilga\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\42251852c13adf5233796ab26d2fb372\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\lilga\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\42251852c13adf5233796ab26d2fb372\AndroidManifest.xml:25:5-29:19
+MERGED from [com.google.android.gms:play-services-base-license:11.6.2] C:\Users\lilga\.gradle\caches\transforms-1\files-1.1\play-services-base-license-11.6.2.aar\f6a7c02fe6b1a5913b1b906a51b5ab9b\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-base-license:11.6.2] C:\Users\lilga\.gradle\caches\transforms-1\files-1.1\play-services-base-license-11.6.2.aar\f6a7c02fe6b1a5913b1b906a51b5ab9b\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-basement-license:11.6.2] C:\Users\lilga\.gradle\caches\transforms-1\files-1.1\play-services-basement-license-11.6.2.aar\3682a75bca7d785302bdaffb0c8c2d46\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-basement-license:11.6.2] C:\Users\lilga\.gradle\caches\transforms-1\files-1.1\play-services-basement-license-11.6.2.aar\3682a75bca7d785302bdaffb0c8c2d46\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-tasks-license:11.6.2] C:\Users\lilga\.gradle\caches\transforms-1\files-1.1\play-services-tasks-license-11.6.2.aar\cffd61eaca7ab621106ac625bb04045d\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-tasks-license:11.6.2] C:\Users\lilga\.gradle\caches\transforms-1\files-1.1\play-services-tasks-license-11.6.2.aar\cffd61eaca7ab621106ac625bb04045d\AndroidManifest.xml:5:5-20
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\lilga\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\b6b88816dd0cae89f4a04e1bbc3c698c\AndroidManifest.xml:24:5-28:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\lilga\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\b6b88816dd0cae89f4a04e1bbc3c698c\AndroidManifest.xml:24:5-28:19
+	android:supportsRtl
+		ADDED from C:\Users\lilga\Desktop\Mobile Programming Final Project\app\src\main\AndroidManifest.xml:16:9-35
+	android:label
+		ADDED from C:\Users\lilga\Desktop\Mobile Programming Final Project\app\src\main\AndroidManifest.xml:14:9-41
+	android:roundIcon
+		ADDED from C:\Users\lilga\Desktop\Mobile Programming Final Project\app\src\main\AndroidManifest.xml:15:9-54
+	android:icon
+		ADDED from C:\Users\lilga\Desktop\Mobile Programming Final Project\app\src\main\AndroidManifest.xml:13:9-43
+	android:allowBackup
+		ADDED from C:\Users\lilga\Desktop\Mobile Programming Final Project\app\src\main\AndroidManifest.xml:12:9-35
+	android:theme
+		ADDED from C:\Users\lilga\Desktop\Mobile Programming Final Project\app\src\main\AndroidManifest.xml:17:9-40
+meta-data#com.google.android.geo.API_KEY
+ADDED from C:\Users\lilga\Desktop\Mobile Programming Final Project\app\src\main\AndroidManifest.xml:19:9-20:54
+	android:value
+		ADDED from C:\Users\lilga\Desktop\Mobile Programming Final Project\app\src\main\AndroidManifest.xml:20:13-52
+	android:name
+		ADDED from C:\Users\lilga\Desktop\Mobile Programming Final Project\app\src\main\AndroidManifest.xml:19:20-65
+activity#com.example.sla008.assistivemobility.LoginActivity
+ADDED from C:\Users\lilga\Desktop\Mobile Programming Final Project\app\src\main\AndroidManifest.xml:22:9-37:20
+	android:label
+		ADDED from C:\Users\lilga\Desktop\Mobile Programming Final Project\app\src\main\AndroidManifest.xml:24:13-45
+	android:theme
+		ADDED from C:\Users\lilga\Desktop\Mobile Programming Final Project\app\src\main\AndroidManifest.xml:25:13-56
+	android:name
+		ADDED from C:\Users\lilga\Desktop\Mobile Programming Final Project\app\src\main\AndroidManifest.xml:23:13-42
+activity#com.example.sla008.assistivemobility.SignUpActivity
+ADDED from C:\Users\lilga\Desktop\Mobile Programming Final Project\app\src\main\AndroidManifest.xml:39:9-43:20
+	android:label
+		ADDED from C:\Users\lilga\Desktop\Mobile Programming Final Project\app\src\main\AndroidManifest.xml:41:13-45
+	android:theme
+		ADDED from C:\Users\lilga\Desktop\Mobile Programming Final Project\app\src\main\AndroidManifest.xml:42:13-56
+	android:name
+		ADDED from C:\Users\lilga\Desktop\Mobile Programming Final Project\app\src\main\AndroidManifest.xml:40:13-43
+activity#com.example.sla008.assistivemobility.MainActivity
+ADDED from C:\Users\lilga\Desktop\Mobile Programming Final Project\app\src\main\AndroidManifest.xml:46:9-57:20
+	android:label
+		ADDED from C:\Users\lilga\Desktop\Mobile Programming Final Project\app\src\main\AndroidManifest.xml:48:13-45
+	android:theme
+		ADDED from C:\Users\lilga\Desktop\Mobile Programming Final Project\app\src\main\AndroidManifest.xml:49:13-56
+	android:name
+		ADDED from C:\Users\lilga\Desktop\Mobile Programming Final Project\app\src\main\AndroidManifest.xml:47:13-41
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\lilga\Desktop\Mobile Programming Final Project\app\src\main\AndroidManifest.xml:51:13-55:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\lilga\Desktop\Mobile Programming Final Project\app\src\main\AndroidManifest.xml:52:17-69
+	android:name
+		ADDED from C:\Users\lilga\Desktop\Mobile Programming Final Project\app\src\main\AndroidManifest.xml:52:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\lilga\Desktop\Mobile Programming Final Project\app\src\main\AndroidManifest.xml:54:17-77
+	android:name
+		ADDED from C:\Users\lilga\Desktop\Mobile Programming Final Project\app\src\main\AndroidManifest.xml:54:27-74
+uses-sdk
+INJECTED from C:\Users\lilga\Desktop\Mobile Programming Final Project\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\lilga\Desktop\Mobile Programming Final Project\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\lilga\Desktop\Mobile Programming Final Project\app\src\main\AndroidManifest.xml
+MERGED from [com.google.android.gms:play-services-maps:11.6.2] C:\Users\lilga\.gradle\caches\transforms-1\files-1.1\play-services-maps-11.6.2.aar\c26909b4b632f9170c94fe898f9c6029\AndroidManifest.xml:23:5-43
+MERGED from [com.google.android.gms:play-services-maps:11.6.2] C:\Users\lilga\.gradle\caches\transforms-1\files-1.1\play-services-maps-11.6.2.aar\c26909b4b632f9170c94fe898f9c6029\AndroidManifest.xml:23:5-43
+MERGED from [com.android.support:design:26.1.0] C:\Users\lilga\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\2f210b7eaa54992ce539fc2c29d34020\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:design:26.1.0] C:\Users\lilga\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\2f210b7eaa54992ce539fc2c29d34020\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\lilga\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\69fc8b4108057aa894151038fadfeec0\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\lilga\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\69fc8b4108057aa894151038fadfeec0\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\lilga\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\b51c47d4da4ef3e32fcd2a62c5be4fae\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\lilga\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\b51c47d4da4ef3e32fcd2a62c5be4fae\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.gms:play-services-base:11.6.2] C:\Users\lilga\.gradle\caches\transforms-1\files-1.1\play-services-base-11.6.2.aar\616019b8a2dff4d295f79b2a31327083\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-base:11.6.2] C:\Users\lilga\.gradle\caches\transforms-1\files-1.1\play-services-base-11.6.2.aar\616019b8a2dff4d295f79b2a31327083\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-tasks:11.6.2] C:\Users\lilga\.gradle\caches\transforms-1\files-1.1\play-services-tasks-11.6.2.aar\34d549116e6ed768028bd6773bcde38f\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-tasks:11.6.2] C:\Users\lilga\.gradle\caches\transforms-1\files-1.1\play-services-tasks-11.6.2.aar\34d549116e6ed768028bd6773bcde38f\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-basement:11.6.2] C:\Users\lilga\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.6.2.aar\799d25e426f4c39cd630638f4f63ad25\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-basement:11.6.2] C:\Users\lilga\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.6.2.aar\799d25e426f4c39cd630638f4f63ad25\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-maps-license:11.6.2] C:\Users\lilga\.gradle\caches\transforms-1\files-1.1\play-services-maps-license-11.6.2.aar\eda45f523c91153dc7e14fbde7c0cd9f\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-maps-license:11.6.2] C:\Users\lilga\.gradle\caches\transforms-1\files-1.1\play-services-maps-license-11.6.2.aar\eda45f523c91153dc7e14fbde7c0cd9f\AndroidManifest.xml:4:5-43
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\lilga\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\0dbdaf8e04e7f3db1c891bf0770059f9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\lilga\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\0dbdaf8e04e7f3db1c891bf0770059f9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\lilga\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\753ce506efc36bbddfbd95b5fdec3052\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\lilga\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\753ce506efc36bbddfbd95b5fdec3052\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\lilga\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\e6670e6789445cb10ec6f0ce3fb11671\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\lilga\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\e6670e6789445cb10ec6f0ce3fb11671\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:26.1.0] C:\Users\lilga\.gradle\caches\transforms-1\files-1.1\transition-26.1.0.aar\3d7d7e1e00f3e5cfbebf262fe8ead940\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:26.1.0] C:\Users\lilga\.gradle\caches\transforms-1\files-1.1\transition-26.1.0.aar\3d7d7e1e00f3e5cfbebf262fe8ead940\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\lilga\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\8755716e0c4e3a62154800f0e947363c\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\lilga\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\8755716e0c4e3a62154800f0e947363c\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\lilga\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\3a187ac172b44cf9d0cb5392406e17e1\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\lilga\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\3a187ac172b44cf9d0cb5392406e17e1\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\lilga\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\261a8da45c4445e34bbbddc3962c1740\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\lilga\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\261a8da45c4445e34bbbddc3962c1740\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\lilga\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\c8cf9e592bc380e290bf4e3756000af6\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\lilga\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\c8cf9e592bc380e290bf4e3756000af6\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\lilga\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\a3e67e5a6707b5b708771d6d877f7af7\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\lilga\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\a3e67e5a6707b5b708771d6d877f7af7\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\lilga\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\42251852c13adf5233796ab26d2fb372\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\lilga\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\42251852c13adf5233796ab26d2fb372\AndroidManifest.xml:21:5-23:58
+MERGED from [com.google.android.gms:play-services-base-license:11.6.2] C:\Users\lilga\.gradle\caches\transforms-1\files-1.1\play-services-base-license-11.6.2.aar\f6a7c02fe6b1a5913b1b906a51b5ab9b\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-base-license:11.6.2] C:\Users\lilga\.gradle\caches\transforms-1\files-1.1\play-services-base-license-11.6.2.aar\f6a7c02fe6b1a5913b1b906a51b5ab9b\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement-license:11.6.2] C:\Users\lilga\.gradle\caches\transforms-1\files-1.1\play-services-basement-license-11.6.2.aar\3682a75bca7d785302bdaffb0c8c2d46\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement-license:11.6.2] C:\Users\lilga\.gradle\caches\transforms-1\files-1.1\play-services-basement-license-11.6.2.aar\3682a75bca7d785302bdaffb0c8c2d46\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-tasks-license:11.6.2] C:\Users\lilga\.gradle\caches\transforms-1\files-1.1\play-services-tasks-license-11.6.2.aar\cffd61eaca7ab621106ac625bb04045d\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-tasks-license:11.6.2] C:\Users\lilga\.gradle\caches\transforms-1\files-1.1\play-services-tasks-license-11.6.2.aar\cffd61eaca7ab621106ac625bb04045d\AndroidManifest.xml:4:5-43
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\lilga\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\b6b88816dd0cae89f4a04e1bbc3c698c\AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\lilga\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\b6b88816dd0cae89f4a04e1bbc3c698c\AndroidManifest.xml:20:5-22:41
+INJECTED from C:\Users\lilga\Desktop\Mobile Programming Final Project\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\lilga\Desktop\Mobile Programming Final Project\app\src\main\AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:26.1.0] C:\Users\lilga\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\2f210b7eaa54992ce539fc2c29d34020\AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from C:\Users\lilga\Desktop\Mobile Programming Final Project\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\lilga\Desktop\Mobile Programming Final Project\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\lilga\Desktop\Mobile Programming Final Project\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\lilga\Desktop\Mobile Programming Final Project\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\lilga\Desktop\Mobile Programming Final Project\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\lilga\Desktop\Mobile Programming Final Project\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.android.gms:play-services-maps:11.6.2] C:\Users\lilga\.gradle\caches\transforms-1\files-1.1\play-services-maps-11.6.2.aar\c26909b4b632f9170c94fe898f9c6029\AndroidManifest.xml:19:5-78
+	android:name
+		ADDED from [com.google.android.gms:play-services-maps:11.6.2] C:\Users\lilga\.gradle\caches\transforms-1\files-1.1\play-services-maps-11.6.2.aar\c26909b4b632f9170c94fe898f9c6029\AndroidManifest.xml:19:22-76
+uses-permission#android.permission.INTERNET
+ADDED from [com.google.android.gms:play-services-maps:11.6.2] C:\Users\lilga\.gradle\caches\transforms-1\files-1.1\play-services-maps-11.6.2.aar\c26909b4b632f9170c94fe898f9c6029\AndroidManifest.xml:20:5-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-maps:11.6.2] C:\Users\lilga\.gradle\caches\transforms-1\files-1.1\play-services-maps-11.6.2.aar\c26909b4b632f9170c94fe898f9c6029\AndroidManifest.xml:20:22-64
+uses-feature#0x00020000
+ADDED from [com.google.android.gms:play-services-maps:11.6.2] C:\Users\lilga\.gradle\caches\transforms-1\files-1.1\play-services-maps-11.6.2.aar\c26909b4b632f9170c94fe898f9c6029\AndroidManifest.xml:21:5-77
+	android:glEsVersion
+		ADDED from [com.google.android.gms:play-services-maps:11.6.2] C:\Users\lilga\.gradle\caches\transforms-1\files-1.1\play-services-maps-11.6.2.aar\c26909b4b632f9170c94fe898f9c6029\AndroidManifest.xml:21:19-51
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:11.6.2] C:\Users\lilga\.gradle\caches\transforms-1\files-1.1\play-services-maps-11.6.2.aar\c26909b4b632f9170c94fe898f9c6029\AndroidManifest.xml:21:52-75
+meta-data#android.support.VERSION
+ADDED from [com.android.support:design:26.1.0] C:\Users\lilga\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\2f210b7eaa54992ce539fc2c29d34020\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\lilga\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\69fc8b4108057aa894151038fadfeec0\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\lilga\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\69fc8b4108057aa894151038fadfeec0\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\lilga\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\0dbdaf8e04e7f3db1c891bf0770059f9\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\lilga\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\0dbdaf8e04e7f3db1c891bf0770059f9\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\lilga\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\753ce506efc36bbddfbd95b5fdec3052\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\lilga\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\753ce506efc36bbddfbd95b5fdec3052\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\lilga\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\e6670e6789445cb10ec6f0ce3fb11671\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\lilga\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\e6670e6789445cb10ec6f0ce3fb11671\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:transition:26.1.0] C:\Users\lilga\.gradle\caches\transforms-1\files-1.1\transition-26.1.0.aar\3d7d7e1e00f3e5cfbebf262fe8ead940\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:transition:26.1.0] C:\Users\lilga\.gradle\caches\transforms-1\files-1.1\transition-26.1.0.aar\3d7d7e1e00f3e5cfbebf262fe8ead940\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\lilga\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\8755716e0c4e3a62154800f0e947363c\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\lilga\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\8755716e0c4e3a62154800f0e947363c\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\lilga\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\3a187ac172b44cf9d0cb5392406e17e1\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\lilga\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\3a187ac172b44cf9d0cb5392406e17e1\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\lilga\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\261a8da45c4445e34bbbddc3962c1740\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\lilga\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\261a8da45c4445e34bbbddc3962c1740\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\lilga\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\c8cf9e592bc380e290bf4e3756000af6\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\lilga\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\c8cf9e592bc380e290bf4e3756000af6\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\lilga\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\a3e67e5a6707b5b708771d6d877f7af7\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\lilga\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\a3e67e5a6707b5b708771d6d877f7af7\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\lilga\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\42251852c13adf5233796ab26d2fb372\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\lilga\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\42251852c13adf5233796ab26d2fb372\AndroidManifest.xml:26:9-28:38
+	android:value
+		ADDED from [com.android.support:design:26.1.0] C:\Users\lilga\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\2f210b7eaa54992ce539fc2c29d34020\AndroidManifest.xml:28:13-35
+	android:name
+		ADDED from [com.android.support:design:26.1.0] C:\Users\lilga\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\2f210b7eaa54992ce539fc2c29d34020\AndroidManifest.xml:27:13-51
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:11.6.2] C:\Users\lilga\.gradle\caches\transforms-1\files-1.1\play-services-base-11.6.2.aar\616019b8a2dff4d295f79b2a31327083\AndroidManifest.xml:19:9-172
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:11.6.2] C:\Users\lilga\.gradle\caches\transforms-1\files-1.1\play-services-base-11.6.2.aar\616019b8a2dff4d295f79b2a31327083\AndroidManifest.xml:19:146-170
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:11.6.2] C:\Users\lilga\.gradle\caches\transforms-1\files-1.1\play-services-base-11.6.2.aar\616019b8a2dff4d295f79b2a31327083\AndroidManifest.xml:19:86-145
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:11.6.2] C:\Users\lilga\.gradle\caches\transforms-1\files-1.1\play-services-base-11.6.2.aar\616019b8a2dff4d295f79b2a31327083\AndroidManifest.xml:19:19-85
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:11.6.2] C:\Users\lilga\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.6.2.aar\799d25e426f4c39cd630638f4f63ad25\AndroidManifest.xml:20:9-121
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:11.6.2] C:\Users\lilga\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.6.2.aar\799d25e426f4c39cd630638f4f63ad25\AndroidManifest.xml:20:66-119
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:11.6.2] C:\Users\lilga\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.6.2.aar\799d25e426f4c39cd630638f4f63ad25\AndroidManifest.xml:20:20-65
+meta-data#android.arch.lifecycle.VERSION
+ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\lilga\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\b6b88816dd0cae89f4a04e1bbc3c698c\AndroidManifest.xml:25:9-27:47
+	android:value
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\lilga\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\b6b88816dd0cae89f4a04e1bbc3c698c\AndroidManifest.xml:27:13-44
+	android:name
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\lilga\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\b6b88816dd0cae89f4a04e1bbc3c698c\AndroidManifest.xml:26:13-58
